@@ -1,7 +1,5 @@
 #!/usr/bin/python
 # FileName: ExtractContent.py 
-# Version 2.0 by Mohamed Abdallah, 2016.12.14
-# Version 1.0 was by Tao Ban, 2010.5.26
 # This function extract all the contents, ie subject and first part from the .eml file 
 # and store it in a new file with the same name in the dst dir. 
 
